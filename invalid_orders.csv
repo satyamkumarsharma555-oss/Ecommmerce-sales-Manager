@@ -1,0 +1,4 @@
+Order_ID,Product,Category,Quantity,Price
+O1,Phone,Electronics,2,10000
+O2,Shirt,Fashion,abc,500
+O3,Phone,Electronics,-1,-10000
