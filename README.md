@@ -3,6 +3,11 @@
 **Project No.:** 5  
 **Language:** Python 3  
 **Concepts:** Pandas, CSV, Matplotlib, Aggregation
+**Project Title:** E-commerce sales analyzer 
+**Student Name:** Satyam Kumar
+**ERP:** RU-26-02546
+**Section:** B2
+**E-mail:** satyam.kumar8@rungta.org
 
 ## Objective
 Analyze e-commerce order data from CSV to calculate total revenue, order count, units sold, best-selling products and category-wise revenue, then visualize the results.
@@ -69,3 +74,10 @@ Select option 3 to generate `top_products.png` and `category_revenue.png`.
 - The Orders count is the number of valid CSV order rows, matching the assignment sample.
 - Product ranking is by total revenue.
 - Category percentages are calculated against total valid revenue.
+
+Project Mentor:-
+
+Mentored by: Mr.Satyam Prakash
+Sethy[https://GitHub.com/SATYAPRAKASHSETHY]
+GitHub:@satyaprakashsethy[https://gitHub.com/SATYAPRAKASHSETHY]
+Role:Python Mentor/Technical Guide
